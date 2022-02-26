@@ -1,0 +1,18 @@
+
+group: group 36
+
+members: [Anjali Gopal Utkar, Akhil Sai Reddy Mukkari, Ravi Sanganamaina, Shashidhar Kundarapu]
+
+topic: Data Science
+
+RQ: Is complex architecture of MLP(Multi-Layer Perceptron)-LSTM(Long Short-Term Memory) useful for improving the performance of a university student GPA model?
+
+context: Performance of a student GPA.
+
+intervention: Complex architecture of MLP-LSTM.
+
+population: Student GPA.
+
+comparison: MLP-LSTM vs MLP or LSTM.
+
+outcome: Predective performance improvement.

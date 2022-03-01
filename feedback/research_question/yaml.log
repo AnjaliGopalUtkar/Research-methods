@@ -1,0 +1,8 @@
+Error in file(file, "rt", encoding = fileEncoding) : 
+  cannot open the connection
+Calls: <Anonymous> -> file
+In addition: Warning message:
+In file(file, "rt", encoding = fileEncoding) :
+  cannot open file 'research_question.yml': No such file or directory
+Execution halted
+Invalid YAML syntax

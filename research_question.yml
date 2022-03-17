@@ -1,18 +1,17 @@
-
 group: group 36
 
 members: [Anjali Gopal Utkar, Akhil Sai Reddy Mukkari, Ravi Sanganamaina, Shashidhar Kundarapu]
 
-topic: Data Science
+topic: Data Science students
 
-RQ: Is complex architecture of MLP(Multi-Layer Perceptron)-LSTM(Long Short-Term Memory) useful for improving the performance of a university student GPA model?
+RQ: How can the employability rate of Data Science master's students be improved?
 
-context: Performance of a student GPA.
+context: Employability rate.
 
-intervention: Complex architecture of MLP-LSTM.
+intervention: Data Science course.
 
-population: Student GPA.
+population: Data Science master's student.
 
-comparison: MLP-LSTM vs MLP or LSTM.
+comparison: Data Science master's student and other master's student.
 
-outcome: Predective performance improvement.
+outcome: The overall employability rate is increased.
